@@ -8,7 +8,7 @@ This repository contains public security audit reports performed by **Auditrate*
 
 | Project | Network | Date | Report |
 |---------|---------|------|--------|
-| Auren Protocol | BNB Smart Chain | August 2026 | Coming soon |
+| Auren Protocol | BNB Smart Chain | August 2026 | [View Report](2026/Auren-Protocol/report/Auren_Protocol_Report.pdf) |
 
 ## Audit Methodology
 
